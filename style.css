@@ -1,0 +1,26 @@
+.greybox
+{ 
+	background-color: #535559; padding: 10px; border:solid 1px white; 
+}
+.orangebox
+{ 
+	background-color: #e89f0d; padding: 10px; border:solid 1px white;
+}
+.yellowbox
+{
+ background-color: #e8dd0d; padding: 10px; border:solid 1px white;
+}
+.blackbox
+{ 
+	background-color: black; padding: 10px; border:solid 1px white;
+}
+.container
+{
+  padding-right: 10px;
+
+  padding-left: 10px;
+
+  margin-right: auto;
+
+  margin-left: auto;
+}
